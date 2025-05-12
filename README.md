@@ -2,7 +2,7 @@
 
 
 # here below live link view of this projects
-https://rushikeshborude.github.io/project-15-space-traveller/#Introduction
+https://itrushi.github.io/space-traveller/
 
 
 
